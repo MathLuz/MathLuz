@@ -5,9 +5,11 @@
 ![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)
 ## Back-end
 ![Back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+<!-- ![Back-end](https://skillicons.dev/icons?i=py,flask,django) -->
 ## Ferramentas
-![Tools](https://skillicons.dev/icons?i=vscode,npm,git,github,vercel,bitbucket,postman,visualstudio,figma)
+![Tools](https://skillicons.dev/icons?i=git,github,vercel,bitbucket,vscode,visualstudio)<br>
+![Tools](https://skillicons.dev/icons?i=npm,postman,figma,xd)
 
 
-<!-- [Icones](https://skillicons.dev) -->
+<!-- [Icones](https://github.com/tandpfun/skill-icons#readme) -->
 <!-- [Github Cards](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file) -->
