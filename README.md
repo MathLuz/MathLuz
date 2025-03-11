@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathluz&layout=compact&theme=default&locale=pt-br)](https://github.com/mathluz/#gh-light-mode-only)
 
 ## Front-end
-![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)
+![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
 
 ## Back-end
 ![Back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb,sequelize,sqlite,nestjs)<br>
