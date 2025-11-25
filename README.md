@@ -1,19 +1,9 @@
 <div align="center">
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mathluz&layout=compact&theme=github_dark&locale=pt-br" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mathluz&layout=compact&theme=default&locale=pt-br" 
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathluz&layout=compact&theme=default&locale=pt-br" 
-  />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathluz&layout=compact&theme=github_dark&locale=pt-br)](https://github.com/mathluz/#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathluz&layout=compact&theme=default&locale=pt-br)](https://github.com/mathluz/#gh-light-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathluz\&layout=compact)
 
 ## Front-end
 ![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
