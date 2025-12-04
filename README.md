@@ -1,33 +1,20 @@
 <div align="center">
 
-<picture>
-  <source 
-    srcset="https://readme-stats.clckblog.space/api/top-langs/?username=mathluz&layout=compact&theme=github_dark&locale=pt-br"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://readme-stats.clckblog.space/api/top-langs/?username=mathluz&layout=compact&theme=default&locale=pt-br"
-    media="(prefers-color-scheme: light)"
-  />
-  <img 
-    src="https://readme-stats.clckblog.space/api/top-langs/?username=mathluz&layout=compact&theme=default&locale=pt-br" 
-  />
-</picture>
-
+<!-- GitHub Readme Stats não está funcionando https://github.com/anuraghazra/github-readme-stats -->
 
 ## Front-end
-![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
+![Front-end](https://skillicons.dev/icons?perline=8&i=html,css,js,ts,react,nextjs,tailwind,vite)<br/>
+<!-- ![Front-end](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite) -->
 
 ## Back-end
-![Back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb,sequelize,sqlite,nestjs)<br>
+![Back-end](https://skillicons.dev/icons?perline=8&i=nodejs,express,sequelize,nestjs,redis,mongodb,supabase,sqlite)<br>
 <!-- ![Back-end](https://skillicons.dev/icons?i=py,flask,django) -->
 
 <!-- ## Mobile
 ![Front-end](https://skillicons.dev/icons?i=react,dart,flutter) -->
 
 ## Ferramentas
-![Tools](https://skillicons.dev/icons?i=git,github,vercel,bitbucket,vscode,visualstudio)<br>
-![Tools](https://skillicons.dev/icons?i=npm,postman,figma,xd)
+![Tools](https://skillicons.dev/icons?perline=6&i=git,github,vercel,bitbucket,vscode,visualstudio,npm,postman,figma,xd,docker,windows)<br/>
 
 <!-- [Icones](https://github.com/tandpfun/skill-icons) -->
 <!-- [Github Cards](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file) -->
